@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>ZTEST_SUSO</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <FIEL2>ARBGB</FIEL2>
+    <OCLSS>BC_A</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>E</LANGU>
+    <OBJECT>ZTEST_SUSO</OBJECT>
+    <TTEXT>Test authorization object</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>ZTEST_SUSO</OBJCT>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>01</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>02</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>03</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>04</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>05</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>06</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZTEST_SUSO</BROBJ>
+     <ACTVT>10</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
